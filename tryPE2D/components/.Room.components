@@ -1,0 +1,37 @@
+{
+    "components": [
+        {
+            "name": "RoomComponent",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.GameObject",
+            "properties": [
+                {
+                    "name": "roomName",
+                    "label": "name",
+                    "tooltip": "Name of the room",
+                    "defValue": "Noname Room",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "string"
+                    }
+                },
+                {
+                    "name": "floor",
+                    "label": "floor",
+                    "tooltip": "floor of the room",
+                    "defValue": 0,
+                    "customDefinition": false,
+                    "type": {
+                        "id": "number"
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    },
+    "outputLang": "TYPE_SCRIPT"
+}

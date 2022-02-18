@@ -1,0 +1,13 @@
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\bin\Debug\SceneEditor.exe.config
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\bin\Debug\SceneEditor.exe
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\bin\Debug\SceneEditor.pdb
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.csproj.AssemblyReference.cache
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.Form1.resources
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.Properties.Resources.resources
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.csproj.GenerateResource.cache
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.csproj.CoreCompileInputs.cache
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.exe
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.pdb
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CH2\Documents\nzy_Projects\泞之翼2.5计划\程序\SceneEditorForNZY\SceneEditor\SceneEditor\obj\Debug\SceneEditor.csproj.CopyComplete

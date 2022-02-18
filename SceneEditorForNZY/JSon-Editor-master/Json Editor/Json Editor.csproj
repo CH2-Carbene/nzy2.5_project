@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFrameworks>net452;netcoreapp3.1</TargetFrameworks>
+    <Product>Json Editor by ZTn</Product>
+    <Description>Simple Json Editor based on Newtonsoft.Json library</Description>
+    <Copyright>ZeToken.net 2013-2020 (MIT License)</Copyright>
+    <Authors>Sylvain Vernois</Authors>
+    <Version>1.6.0</Version>
+    <Company>ZeToken.net</Company>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/wsct/WSCT-Core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wsct/WSCT-Core</RepositoryUrl>
+    <PackageTags>json, editor</PackageTags>
+    <PackageReleaseNotes>- new: support .net 4.5.2 and .net core 3.1</PackageReleaseNotes>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>ZTn.Json.Editor</RootNamespace>
+    <AssemblyName>ZTn.Json.Editor</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ZTn.Json.Editor.Program</StartupObject>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JsonTreeView\JsonTreeView.csproj" />
+  </ItemGroup>
+</Project>

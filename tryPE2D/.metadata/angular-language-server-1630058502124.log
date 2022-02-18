@@ -1,0 +1,58 @@
+Info 0    [18:1:43.535] Format host information updated
+Info 1    [18:1:43.543] reload projects.
+Info 2    [18:1:43.543] Structure before ensureProjectForOpenFiles:
+Info 3    [18:1:43.544] Structure after ensureProjectForOpenFiles:
+Info 4    [18:1:43.544] Host file extension mappings updated
+Info 5    [18:1:43.573] Search path: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent
+Info 6    [18:1:43.576] For info: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/index.html :: Config file name: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 7    [18:1:43.577] Opened configuration file c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 8    [18:1:43.640] Loading global plugin @angular/language-service
+Info 9    [18:1:43.641] Enabling plugin @angular/language-service from candidate paths: C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,C:\Users\CH2\Downloads\Compressed\PhaserEditor2D-2.1.8-windows\PhaserEditor2D\plugins\org.eclipse.wildwebdeveloper_0.5.2.201911072316\language-servers\node_modules\@angular\language-service
+Info 10   [18:1:43.641] Loading @angular/language-service from C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 11   [18:1:44.37] Plugin validation succeded
+Info 12   [18:1:44.51] Starting updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 13   [18:1:47.114] Finishing updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json Version: 1 structureChanged: true Elapsed: 3062ms
+Info 14   [18:1:47.114] Project 'c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json' (Configured) 
+Info 15   [18:1:47.114] 	Files (8)
+
+Info 16   [18:1:47.114] -----------------------------------------------
+Info 17   [18:1:47.117] Starting updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 18   [18:1:47.124] Finishing updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json Version: 2 structureChanged: false Elapsed: 7ms
+Info 19   [18:1:47.124] Project 'c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json' (Configured) 
+Info 20   [18:1:47.124] 	Files (8)
+
+Info 21   [18:1:47.124] -----------------------------------------------
+Info 22   [18:1:47.130] Loading global plugin @angular/language-service
+Info 23   [18:1:47.130] Enabling plugin @angular/language-service from candidate paths: C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,C:\Users\CH2\Downloads\Compressed\PhaserEditor2D-2.1.8-windows\PhaserEditor2D\plugins\org.eclipse.wildwebdeveloper_0.5.2.201911072316\language-servers\node_modules\@angular\language-service
+Info 24   [18:1:47.130] Loading @angular/language-service from C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 25   [18:1:47.131] Plugin validation succeded
+Info 26   [18:1:47.136] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 27   [18:1:47.836] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 700ms
+Info 28   [18:1:47.836] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 29   [18:1:47.836] 	Files (6)
+
+Info 30   [18:1:47.836] -----------------------------------------------
+Info 31   [18:1:47.838] `remove Project::
+Info 32   [18:1:47.838] Project 'c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json' (Configured) 
+Info 33   [18:1:47.838] 	Files (8)
+
+Info 34   [18:1:47.839] -----------------------------------------------
+Info 35   [15:5:53.470] Search path: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/assets/scenes
+Info 36   [15:5:53.472] For info: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/assets/scenes/Scene1.ts :: Config file name: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 37   [15:5:53.473] Opened configuration file c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 38   [15:5:53.511] Loading global plugin @angular/language-service
+Info 39   [15:5:53.512] Enabling plugin @angular/language-service from candidate paths: C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,C:\Users\CH2\Downloads\Compressed\PhaserEditor2D-2.1.8-windows\PhaserEditor2D\plugins\org.eclipse.wildwebdeveloper_0.5.2.201911072316\language-servers\node_modules\@angular\language-service
+Info 40   [15:5:53.512] Loading @angular/language-service from C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to C:/Users/CH2/Downloads/Compressed/PhaserEditor2D-2.1.8-windows/PhaserEditor2D/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 41   [15:5:53.514] Plugin validation succeded
+Info 42   [15:5:53.519] Starting updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 43   [15:5:54.383] Finishing updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json Version: 1 structureChanged: true Elapsed: 864ms
+Info 44   [15:5:54.383] Project 'c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json' (Configured) 
+Info 45   [15:5:54.383] 	Files (8)
+
+Info 46   [15:5:54.383] -----------------------------------------------
+Info 47   [15:5:54.383] Starting updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json
+Info 48   [15:5:54.384] Finishing updateGraphWorker: Project: c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json Version: 2 structureChanged: false Elapsed: 1ms
+Info 49   [15:5:54.384] Project 'c:/Users/CH2/Documents/nzy_Projects/tryPE2Dv2/WebContent/jsconfig.json' (Configured) 
+Info 50   [15:5:54.384] 	Files (8)
+
+Info 51   [15:5:54.384] -----------------------------------------------

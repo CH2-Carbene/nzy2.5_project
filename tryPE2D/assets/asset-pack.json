@@ -1,0 +1,53 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/不忘初心.png",
+                "type": "image",
+                "key": "不忘初心"
+            },
+            {
+                "url": "assets/arrow.jpg",
+                "type": "image",
+                "key": "arrow"
+            },
+            {
+                "url": "assets/dino.png",
+                "type": "image",
+                "key": "dino"
+            },
+            {
+                "url": "assets/img/pic1.jpg",
+                "type": "image",
+                "key": "pic1"
+            },
+            {
+                "url": "assets/img/pic2.jpg",
+                "type": "image",
+                "key": "pic2"
+            },
+            {
+                "url": "assets/img/pic3.jpg",
+                "type": "image",
+                "key": "pic3"
+            },
+            {
+                "url": "assets/img/pic4.jpg",
+                "type": "image",
+                "key": "pic4"
+            },
+            {
+                "url": "assets/roomList.json",
+                "type": "json",
+                "key": "roomList"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

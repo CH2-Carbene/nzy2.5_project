@@ -1,0 +1,94 @@
+{
+    "大厅": {
+        "floor": 1,
+        "scenes": [
+            {
+                "texture": "pic1",
+                "move": {
+                    "Left": 1,
+                    "Right": -1,
+                    "Up": 2,
+                    "Down": -1
+                }
+            },
+            {
+                "texture": "pic2",
+                "move": {
+                    "Left": -1,
+                    "Right": 0,
+                    "Up": -1,
+                    "Down": -1
+                },
+                "door": [
+                    {
+                        "toPos": {
+                            "room": "楼梯间",
+                            "scene": "0"
+                        },
+                        "hitArea": [
+                            100,
+                            100,
+                            300,
+                            100,
+                            300,
+                            400,
+                            100,
+                            500,
+                            100,
+                            100
+                        ]
+                    }
+                ]
+            },
+            {
+                "texture": "pic3",
+                "move": {
+                    "Left": 1,
+                    "Right": -1,
+                    "Up": -1,
+                    "Down": 0
+                }
+            }
+        ]
+    },
+    "楼梯间": {
+        "floor": 1,
+        "scenes": [
+            {
+                "texture": "pic4",
+                "move": {
+                    "Left": -1,
+                    "Right": -1,
+                    "Up": -1,
+                    "Down": -1
+                },
+                "door": [
+                    {
+                        "toPos": {
+                            "room": "大厅",
+                            "scene": "1"
+                        },
+                        "hitArea": [
+                            [
+                                150,
+                                300
+                            ],
+                            [
+                                300,
+                                300
+                            ],
+                            [
+                                300,
+                                500
+                            ],
+                            [
+                                150,
+                                500
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

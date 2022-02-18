@@ -1,0 +1,43 @@
+{
+    "components": [
+        {
+            "name": "ItemBoxComponent",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Rectangle",
+            "properties": [
+                {
+                    "name": "ID",
+                    "label": "ItemBoxID",
+                    "tooltip": "ID of item box",
+                    "defValue": "-1",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "number"
+                    }
+                },
+                {
+                    "name": "Item",
+                    "label": "item name",
+                    "tooltip": "Item name in the itembox",
+                    "defValue": "",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "string"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ItemBoxListComponent",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Rectangle",
+            "properties": []
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    },
+    "outputLang": "TYPE_SCRIPT"
+}

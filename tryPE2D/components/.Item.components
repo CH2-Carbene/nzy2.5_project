@@ -1,0 +1,37 @@
+{
+    "components": [
+        {
+            "name": "ItemComponent",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Image",
+            "properties": [
+                {
+                    "name": "itemName",
+                    "label": "item name",
+                    "tooltip": "name of item",
+                    "defValue": "未知物品",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "string"
+                    }
+                },
+                {
+                    "name": "describe",
+                    "label": "item describe",
+                    "tooltip": "describe of item",
+                    "defValue": "一个未知物品。",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "string"
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    },
+    "outputLang": "TYPE_SCRIPT"
+}

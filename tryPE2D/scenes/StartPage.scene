@@ -1,0 +1,60 @@
+{
+    "id": "cc74e91f-7ed9-4ead-b70d-0daf9045c253",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "StartPage",
+        "compilerOutputLanguage": "TYPE_SCRIPT"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "db8008a5-ab88-4bba-a6b6-d5fbcdb735bf",
+            "label": "bg",
+            "components": [],
+            "texture": {
+                "key": "不忘初心"
+            },
+            "x": 400,
+            "y": 300,
+            "scaleX": 1.3504855554906776,
+            "scaleY": 1.3504855554906776
+        },
+        {
+            "type": "Text",
+            "id": "37751759-4104-4fa1-ba23-4acac229dd85",
+            "label": "title",
+            "scope": "CLASS",
+            "components": [],
+            "x": 400,
+            "y": 480,
+            "text": "开始游戏",
+            "fontFamily": "微软雅黑, Simsun, Courier",
+            "fontSize": "64px",
+            "color": "#9a0000ff",
+            "stroke": "#028400ff",
+            "strokeThickness": 6,
+            "backgroundColor": "#00b6e3ff"
+        },
+        {
+            "type": "Rectangle",
+            "id": "5b179711-2ca7-4aaf-b1ca-275a15e12593",
+            "label": "startbutton",
+            "scope": "CLASS",
+            "components": [],
+            "x": 619,
+            "y": 481,
+            "isFilled": true,
+            "fillColor": "#02890e",
+            "width": 128,
+            "height": 128
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

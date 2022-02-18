@@ -1,0 +1,55 @@
+{
+    "id": "588799df-f23e-461b-9714-d8af3e28bcc7",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "compilerOutputLanguage": "TYPE_SCRIPT"
+    },
+    "displayList": [
+        {
+            "type": "Triangle",
+            "id": "985a1a6e-9e4c-446e-9c75-741630db74d5",
+            "label": "sceneUp",
+            "components": [],
+            "scaleY": 0.37016706926192194,
+            "isFilled": true
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    },
+    "prefabProperties": [
+        {
+            "name": "direction",
+            "label": "direction",
+            "tooltip": "direction of button",
+            "defValue": "",
+            "customDefinition": false,
+            "type": {
+                "id": "option",
+                "options": [
+                    "",
+                    "Left",
+                    "Right",
+                    "Up",
+                    "Down"
+                ]
+            }
+        },
+        {
+            "name": "toScene",
+            "label": "to scene",
+            "tooltip": "ID of Scene to go",
+            "defValue": 0,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        }
+    ]
+}

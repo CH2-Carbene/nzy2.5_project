@@ -1,0 +1,13 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "outFile": "game.js",
+        "strict": true,
+        // "module": "system"
+    },
+    "exclude": [
+        "lib/**",
+        // "components/UserComponent.ts"
+    ]
+}

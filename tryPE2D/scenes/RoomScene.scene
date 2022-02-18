@@ -1,0 +1,221 @@
+{
+    "id": "ab4e6354-a920-4cfc-92e3-60c3a278c693",
+    "sceneType": "SCENE",
+    "settings": {
+        "snapWidth": 10,
+        "snapHeight": 10,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "RoomScene",
+        "compilerOutputLanguage": "TYPE_SCRIPT"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "b92dd59e-2def-4005-9fa3-983c2400b028",
+            "label": "bg",
+            "scope": "PUBLIC",
+            "components": [],
+            "texture": {},
+            "originX": 0,
+            "originY": 0
+        },
+        {
+            "type": "Rectangle",
+            "id": "cf8fc89c-adad-4942-9903-8ff09b7adccb",
+            "label": "itemBoxBottom",
+            "components": [],
+            "x": 735,
+            "y": 310,
+            "scaleX": 1.270537567909736,
+            "scaleY": 5.131907024964907,
+            "isFilled": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Container",
+            "id": "3ee859b5-c8b7-42fb-a3a7-bc705dd00562",
+            "label": "itemBoxList",
+            "scope": "CLASS",
+            "components": [],
+            "x": 731,
+            "y": 183,
+            "list": [
+                {
+                    "type": "Rectangle",
+                    "id": "c7e26776-4ba0-4bf9-b05c-c7fa0b0a95ef",
+                    "label": "itemBox1",
+                    "components": [
+                        "ItemBoxComponent"
+                    ],
+                    "x": 5,
+                    "y": 9,
+                    "scaleX": 0.6831684239077994,
+                    "scaleY": 0.6831684239077994,
+                    "isFilled": true,
+                    "fillColor": "#0000",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "575ba2ee-9b02-4736-828e-c7e2f0298911",
+                    "label": "itemBox2",
+                    "components": [
+                        "ItemBoxComponent"
+                    ],
+                    "x": 5,
+                    "y": 105,
+                    "scaleX": 0.6831684239077994,
+                    "scaleY": 0.6831684239077994,
+                    "isFilled": true,
+                    "fillColor": "#0000",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "81e78df7-6e7a-4fba-a5e9-e838488f18cd",
+                    "label": "itemBox3",
+                    "components": [
+                        "ItemBoxComponent"
+                    ],
+                    "x": 5,
+                    "y": 201,
+                    "scaleX": 0.6831684239077994,
+                    "scaleY": 0.6831684239077994,
+                    "isFilled": true,
+                    "fillColor": "#0000",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "d8d6120b-a436-4942-a82e-78d9de02faee",
+                    "label": "itemBox4",
+                    "components": [
+                        "ItemBoxComponent"
+                    ],
+                    "x": 5,
+                    "y": 297,
+                    "scaleX": 0.6831684239077994,
+                    "scaleY": 0.6831684239077994,
+                    "isFilled": true,
+                    "fillColor": "#0000",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Triangle",
+                    "id": "224fa35c-e79d-4097-9b14-86448e4c61ac",
+                    "label": "itemListDown",
+                    "components": [],
+                    "x": 5,
+                    "y": 393,
+                    "scaleY": -0.4353690800990503,
+                    "isFilled": true,
+                    "fillColor": "#003fff"
+                },
+                {
+                    "type": "Triangle",
+                    "id": "9fa9b19f-753e-4e07-8f3d-545d4794dae9",
+                    "label": "itemListUp",
+                    "components": [],
+                    "x": 5,
+                    "y": -87,
+                    "scaleY": 0.49720248568664815,
+                    "isFilled": true,
+                    "fillColor": "#003fff"
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "47a1060a-dda5-4057-b160-6b84c759f06c",
+            "label": "sceneSwitchButton",
+            "scope": "CLASS",
+            "components": [],
+            "x": 34,
+            "y": 43,
+            "list": [
+                {
+                    "prefabId": "588799df-f23e-461b-9714-d8af3e28bcc7",
+                    "id": "afc0af33-eb71-4af3-a43e-147f15757bbe",
+                    "unlock": [
+                        "direction",
+                        "toScene",
+                        "angle"
+                    ],
+                    "label": "sceneUp",
+                    "direction": "Up",
+                    "components": [],
+                    "x": 286,
+                    "y": -11
+                },
+                {
+                    "prefabId": "588799df-f23e-461b-9714-d8af3e28bcc7",
+                    "id": "b7d1d982-d5fc-4858-bd72-295cd86677ce",
+                    "unlock": [
+                        "direction",
+                        "toScene",
+                        "angle"
+                    ],
+                    "label": "sceneRight",
+                    "direction": "Right",
+                    "components": [],
+                    "x": 574,
+                    "y": 277,
+                    "angle": 90
+                },
+                {
+                    "prefabId": "588799df-f23e-461b-9714-d8af3e28bcc7",
+                    "id": "d7a258a3-586f-42c3-9b63-7ad27fd4e93c",
+                    "unlock": [
+                        "direction",
+                        "toScene",
+                        "angle"
+                    ],
+                    "label": "sceneDown",
+                    "direction": "Down",
+                    "components": [],
+                    "x": 286,
+                    "y": 533,
+                    "angle": -180
+                },
+                {
+                    "prefabId": "588799df-f23e-461b-9714-d8af3e28bcc7",
+                    "id": "c11190e3-bbb4-4dec-9eff-6d2d2991a069",
+                    "unlock": [
+                        "direction",
+                        "angle",
+                        "toScene"
+                    ],
+                    "label": "sceneLeft",
+                    "direction": "Left",
+                    "components": [],
+                    "x": -2,
+                    "y": 277,
+                    "angle": -90
+                }
+            ]
+        },
+        {
+            "type": "Text",
+            "id": "81d7fa18-64cf-4541-92cf-79f271bc011c",
+            "label": "showPosition",
+            "scope": "CLASS",
+            "components": [],
+            "x": 126,
+            "y": 61,
+            "text": "Unknown Room\n",
+            "fontSize": "30px"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
